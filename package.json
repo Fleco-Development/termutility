@@ -1,6 +1,6 @@
 {
   "name": "termutility",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Made to utilise the console of the Discord bot Fleco.",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,13 @@
   "author": "HussGB",
   "license": "ISC",
   "homepage": "https://fleco.dev/",
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/Fleco-Development/termutility.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Fleco-Development/termutility/issues"
+	},
   "dependencies": {
     "chalk": "^5.0.1"
   }
