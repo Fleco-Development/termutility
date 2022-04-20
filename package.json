@@ -1,0 +1,22 @@
+{
+  "name": "termutility",
+  "version": "0.0.1",
+  "description": "Made to utilise the console of the Discord bot Fleco.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "keywords": [
+    "fleco",
+    "fleco-utility",
+    "utility",
+    "fleco-package",
+    "fleco-console"
+  ],
+  "author": "HussGB",
+  "license": "ISC",
+  "homepage": "https://fleco.dev/",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
